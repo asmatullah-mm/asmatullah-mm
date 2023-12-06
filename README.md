@@ -7,7 +7,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Falaya](https://falaya.com/).
+- 🔭 I’m currently building [PropX](https://www.propx.com/).
 - 🌱 I’m currently learning more about Flutter.
 - 💬 Ask me about Flutter.
 - 📫 How to reach me: Check social links below.
